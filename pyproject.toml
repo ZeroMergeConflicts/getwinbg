@@ -6,9 +6,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "caesarcipher-extended"
 version = "0.0.0"
-description = "caesarcipher-extended"
+description = "NA"
 readme = "README.md"
-license = {file = "LICENSE"}
+license = "MIT"
 authors = [
     {name = "Virati Akiranandhan Reddy", email = "contact.viratiakiranandhanreddy+pypi@gmail.com"}
 ]
