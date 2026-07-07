@@ -4,9 +4,9 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "viratiakiranandhanreddy"
+name = "caesarcipher-extended"
 version = "0.0.0"
-description = "viratiakiranandhanreddy"
+description = "caesarcipher-extended"
 readme = "README.md"
 license = {file = "LICENSE"}
 authors = [
